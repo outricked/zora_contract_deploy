@@ -1,0 +1,12 @@
+{
+  "name": "contract-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@zoralabs/protocol-sdk": "^0.5.7",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.3",
+    "viem": "^2.9.5"
+  }
+}
